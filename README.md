@@ -5,9 +5,10 @@ programming languages I like.
 
 Concentrations are in %v/v.  I use [MERU perfume base][base] over the counter,
 which contains ethanol, distilled water, and an emulsifier.  Essential oils are
-from Florihana, which are organic and GC/MS tested.
+from [Florihana][fh], which are organic and GC/MS tested.
 
 [base]: https://www.meru.com.tw/product.php?pid_for_show=3521
+[fh]: https://www.florihana.com/en/
 
 - **Fortran**: Sweet orange 7.5%, lavender vera 5.0%, cedarwood atlas 2.5%
 - **Lisp**: Jasmine sambac 5.0%, ? 5.0%
