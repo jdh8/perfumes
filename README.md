@@ -11,12 +11,11 @@ from [Florihana][fh], which are organic and GC/MS tested.
 [fh]: https://www.florihana.com/en/
 
 - **Fortran**: sweet orange 7.5%, lavender vera 5.0%, cedarwood atlas 2.5%
-- **Lisp**: jasmine sambac 5.0%, ? 5.0%
+- **Lisp**: jasmine sambac 5.0%, cedarwood atlas 5.0%
 
 Naming plans
 ------------
-1. Try to follow historical chronology
-2. Indole-rich perfumes are named after functional programming languages for
+1. Indole-rich perfumes are named after functional programming languages for
    their mixed reputation.  (I am a fan of both.)
-3. Footgun programming languages (e.g. C++, JavaScript, PHP) indicate
+2. Footgun programming languages (e.g. C++, JavaScript, PHP) indicate
    perfumes with photosensitizing ingredients, usually citrus oils.
